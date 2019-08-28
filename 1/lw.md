@@ -1,3 +1,3 @@
-<center><h1>论文题目</h1></center>
+<h1><center>论文题目</center></h1>
 # 你好！！
 
